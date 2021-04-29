@@ -1,0 +1,2 @@
+# Efit
+Efit is a ecommerce website that I have created with the sole purpose of learning to create websites of this nature. It is built with vanilla HTML, CSS and utilizes a MySQL relational database for creating orders, and adding products and it even has a integrated paypal gateway. As of now it is still a work in progress and is something that I work on when I have the time. Its is definitly not a professional level website as of now but I will continue to update it as I go. 
