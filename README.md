@@ -1,3 +1,4 @@
+
 # Efit
 
 # Description
@@ -19,7 +20,7 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 - Stored data such as products information can be viewed and edited.
 
 # Web App Preview
-<img src="https://media.giphy.com/media/LLRd8RTIESyP4HverW/giphy.gif" width="800">
+https://user-images.githubusercontent.com/60246437/120919686-c002a380-c66f-11eb-99dd-1ed65d0a4d44.mov
 
 # Future Updates
 This project is a work-in-progess and passion project I want to keep updating to see how far I can go. As of now, I am in the process of adding a fully functional user sign-in system and plan to expand the applications capabilites as I move forward. Furthermore, it is to be expected that I will work on small updates, such as enchancing the user interface, and optimizing my code to be as efficent as possible. For now I made a simple roadmap of what features I plan to add down the road.
