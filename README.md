@@ -4,12 +4,12 @@
 Efit is a ecommerce solution that is built specifically to sell clothes. It is built and designed with vanilla HTML, CSS, JavaScript, PHP and utilizes a MySQL relational database for creating orders, adding products and storing user information. The payment is processed by a secure integrated payment gateway courtesy of the Paypal API. As of now it is still in it simplest form, this web app follows the basic ecommerce process. It starts at the product, then goes to cart and finally checkout.
 
 <table>
-<tr><th>Font-End Languages </th><th>Back-End Languages</th></tr>
+<tr> <th>Font-End Languages </th> <th>Back-End Languages</th> </tr>
 <tr><td>
 
-| HTML |
-| CSS |
-| JavaScript |
+| HTML 
+| CSS 
+| JavaScript 
 
 </td><td>
 
