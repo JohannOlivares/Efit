@@ -8,7 +8,9 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 <tr><td>
 
 |HTML| 
+|--|
 |CSS| 
+|--|
 |JavaScript|
 
 </td><td>
