@@ -1,0 +1,48 @@
+/*!
+ *    FileName:  index.css
+ *      Author:  Johann Olivares
+ *        Date:  09/29/20
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ *
+ * Table of Contents:
+ * 1.0 General Format
+ */
+
+/*Conformation Styles*/
+#container {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 80px;
+}
+#thank-you-msg {
+    font-size: 30px;
+    padding: 15px;
+    margin: 10px;
+}
+#thank-you-img {
+    padding: 10px;
+    margin: 20px auto 20px auto;
+}
+#continue-btn {
+    padding: 19px;
+    margin: 5px;
+}
+#continue-btn {
+    padding: 5px;
+    margin: 10px 10px 50px 10px;
+}
+#continue-btn a {
+    text-decoration: none;
+    background-color: dodgerblue;
+    border-radius: 8px;
+    color: white;
+    font-size: 25px;
+    padding: 15px;
+    margin: 15px 15px 40px 15px;
+    
+}
+#continue-btn a:hover {
+	background-color: #0033cc;
+}
+/*End of Conformation Styles*/

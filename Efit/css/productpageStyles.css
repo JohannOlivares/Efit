@@ -1,0 +1,61 @@
+/*!
+ *    FileName:  productpageStyles.css
+ *      Author:  Johann Olivares
+ *        Date:  09/29/2020
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ *				 
+ *
+ */
+ /*import CSS styles from index.css*/
+ @import url("index.css"); 
+ 
+/*Product Detail Styles*/
+#product-details-container {
+	display: flex;
+	border: 1px solid black;
+	padding: 2%;
+	margin: 2%;
+}
+#img-container {
+	border: 1px solid black;
+	width: 60%;
+	height: 100%;
+}
+
+#details-containers {
+	text-align: center;
+	border: 1px solid black;
+	padding: 1%;
+	margin: 1%px
+}
+.item-description p, .item-price h2, .item-name h1  {
+	text-align: center;
+	padding: 10px;
+	margin: 5px;
+
+}
+.item-cart-action {
+	text-align: center;
+	font-size: 20px;
+	margin: auto;
+	padding: 1%;
+}
+.item-add-btn  {
+	text-decoration: none;
+    background-color: DodgerBlue;
+    border: none;
+	border-radius: 10px;
+	font-size: 20px;
+    color: white;
+	padding: 1% 2% 1% 2%;
+	margin: auto;
+}
+.product-qty {
+	padding: 1%;
+	border: 1px solid black;
+}
+.item-add-btn:hover {
+	background-color: #0033cc;
+}
+/*End of Prodict Detail Styles*/

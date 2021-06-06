@@ -1,0 +1,41 @@
+/*!
+ *    FileName:  cart.css
+ *      Author:  Johann Olivares
+ *        Date:  09/29/20
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ */
+ /*Import index.css for consistent formatting*/
+ @import url("index.css");
+ 
+ #form-container{
+     float: left;
+     border: 1px solid black;
+     text-align: center;
+     font-size: 20px;
+ }
+ #form-container, .add-form, .add-table{
+     padding: 10px;
+     margin: 10px;
+ }
+.add-btn input[type="submit"] {
+    color: white;
+    padding: 10px;
+    margin: 5px auto 5px auto;
+    background-color: dodgerblue;
+}
+.list-container {
+    padding: 5px;
+    font-size: 20px;
+} 
+.table {
+    float: right;
+    padding: 10px;
+    margin: 1% auto 1% auto;
+}
+table, tr, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 1% auto 1% auto;
+    padding: 5px 15px 5px 15px;
+}

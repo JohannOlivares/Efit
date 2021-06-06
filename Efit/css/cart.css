@@ -1,0 +1,86 @@
+/*!
+ *    FileName:  cart.css
+ *      Author:  Johann Olivares
+ *        Date:  09/29/20
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ */
+ /*Import index.css for consistent formatting*/
+ @import url("index.css");
+ 
+ /*Shopping cart Styles*/
+ #shopping-cart {
+	 text-align: center;
+	 border: 1px solid black;
+	 border-radius: 20px;
+	 padding: 20px;
+	 margin: 20px;
+ }
+.shop-heading {
+	 font-size: 25px;
+	 font-weight: bold;
+	 padding: 10px;
+	 margin: 10px;
+}
+.cart-table {
+	font-size: 15px;
+}
+/*End of Shopping cart Styles*/
+
+ /*Cart Table*/
+ .cart-table {
+	 margin-top: 20px;
+	 margin-bottom: 20px;
+	 margin-left: auto;
+	 margin-right: auto;
+	 border-collapse: collapse;
+	 padding: 5px;
+	 
+ }
+ .cart-table tr, .cart-table th, .cart-table td {
+	 text-align: center;
+	 border: 2px solid black;
+	 padding: 5px 45px 5px 45px;
+	 margin: 10px;
+	 
+ }
+ /*End of Cart Table*/
+ 
+/*Button Styles*/
+.btn-action {
+    background-color: DodgerBlue;
+    color: white;
+	font-size: 15px;
+    text-decoration: none;
+	border: none;
+    border-radius: 15px;
+    cursor: pointer;
+	padding: 15px;
+	margin: 10px;
+}
+.btn-action:hover {
+	background-color: #0033cc;
+}
+.no-items {
+	font-size: 15px;
+
+}
+ #btn-empty {
+    background-color: DodgerBlue;
+    color: white;
+	font-size: 15px;
+    text-decoration: none;
+	border: none;
+    border-radius: 15px;
+	padding: 15px;
+	margin: 10px;
+ }
+ #btn-empty:hover {
+	 background-color: #0033cc;
+ }
+ /*End of Button styles*/
+ 
+ 
+ 
+
+ 

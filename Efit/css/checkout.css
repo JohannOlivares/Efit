@@ -1,0 +1,70 @@
+/*!
+ *    FileName:  checkout.css
+ *      Author:  Johann Olivares
+ *        Date:  02/06/2021
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ *				 
+ *
+ */
+ /*Import index.css for consistent formatting*/
+ @import url("index.css");
+ #container {
+	 padding: 5px;
+	 margin: 10px 10px 225px 10px;
+ }
+
+ /*CheckOut Form Styles*/
+.checkOutForm {
+	float: left;
+	font-size: 30px;
+	background-color: Darkred;
+	border-radius: 10px;
+	padding: 50px;
+	margin: 20px;
+	text-align: center;
+}
+.checkOutForm h3 {
+	color: white;
+	font-size: 50px;
+	padding: 30px;
+}
+.checkOutForm input {
+	display: block;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 20px;
+}
+.checkout-btn {
+	padding: 40px;
+	font-size: 40px;
+}
+ /*End of CheckOut Form Styles*/
+ 
+ /*Order Summary*/
+#checkout-Container {
+	padding: 20px 45px 20px 45px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#checkout-Container h3 {
+	font-size: 30px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+ }
+ .checkOutTable {
+	 border-collapse: collapse;
+	 padding: 10px;
+	 margin-left: auto;
+	 margin-right: auto;
+ }
+ .checkOutTable td, .checkOutTable tr, .checkOutTable th {
+	 text-align: center;
+	font-size: 15px;
+    border: 1px solid black;
+	padding: 5px 40px 5px 40px;
+	
+}
+ /*End of Order Summary*/
+ 

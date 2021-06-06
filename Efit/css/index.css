@@ -1,0 +1,220 @@
+/*!
+ *    FileName:  index.css
+ *      Author:  Johann Olivares
+ *        Date:  09/29/20
+ *
+ * Description: selectors for formatting the index file for E-Fit website
+ *
+ * Table of Contents:
+ * 1.0 General Format
+ * 2.0 Navigation
+ * 3.0 Banner
+ * 4.0 Product Slider
+ * 5.0 Product Listings
+ * 6.0 Filter Form
+ * 7.0 Footer
+ *
+ */
+
+/*General fromat styles*/
+html, body {
+	position: relative;
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: 'Rubik', sans-serif;
+	scroll-behavior: smooth;
+}
+h1, h2, h3, p, a {
+	font-family: 'Rubik', sans-serif;
+}
+h1, h1, h3, p {
+	text-align: center;
+	margin: 0;
+}
+/*End of general format styles*/
+
+/*Navigation Bar Styles*/
+#store-logo {
+	padding-right: 30px;
+	margin: 0;
+}
+.nav-bar {
+	background-color: DarkRed;
+	font-size: 20px;
+	padding: 1.2%;
+}
+.nav-bar .links {
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	padding: .5% 3% .5% 3%;
+	
+}
+.links:link {
+	color: white;
+}
+.links:hover {
+	border-bottom: 5px solid white;
+}
+#search-field {
+	float: right;
+	padding: 1.5%;
+	border: none;
+}
+#search-btn  {
+	float: right;
+	padding: 1.5%;
+	border: none;
+	background: dodgerblue;
+	color: white;
+}
+#search-btn:hover{
+	background-color: #0033cc;
+}
+/*Navigation Bar Styles End*/
+
+/*Banner Image Styles*/
+#Banner {
+	background: url("../img/slider1.jpg");
+	height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+#Banner h1{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	text-shadow: 0 0 10px black;
+	padding-top: 100px;
+}
+#shopBtn {
+	text-align: center;
+	padding: 10px;
+	margin-top: 80px;
+}
+#shopBtn a {
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+	border: 5px solid white;
+	border-radius: 40px;	
+	padding: 15px;		
+
+}
+#shopBtn a:hover {
+	background-color: white;
+	color: black;
+}
+/*End of Banner Image Styles*/
+
+/*Product Slider*/
+.product-slider {
+	display: flex;
+	overflow: hidden;
+	position: relative;
+	padding: 1%;
+	margin: 5px;
+}
+.slider-btn-right, .slider-btn-left { 
+	padding: 1%;
+	margin: auto;
+}
+button {
+	font: 100px;
+	font-weight: bold;
+	color: white;
+    background-color: grey;
+	border: none;
+	border-radius: 1px;
+	padding: 10px;
+}
+/*End of Product Slider*/
+
+/*Product Forms*/
+#product-header {
+	font-size: 20px;
+	padding: 2% 1% 1% 1%;
+	margin: 1%;
+}
+.product-grid {
+	 display: grid;
+	 grid-template-columns: auto auto auto auto;
+	 grid-gap: 1% 1%; 	 
+	 background-color: white;
+	 padding: 3%;
+	 margin: 1%;
+}
+.product-item {
+	border: 1px solid black;
+	padding: .5%;
+	color: black;
+	background-color: white;
+	text-align: center;	
+}
+.item-details {
+    border: 1px solid black;
+	padding: 5%;
+}
+.image {
+	position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.price {
+	text-align: center;
+	font-size: 15px;
+	padding: 1%;
+	
+}
+.name {
+    text-align: center;
+	font-size: 15px;	
+	font-weight: bold;
+} 
+.cart-action {
+	padding: 5% 1% 5% 1%;
+	margin: 0;
+}
+.add-btn {
+	text-decoration: none;
+    background-color: DodgerBlue;
+    border: none;
+	border-radius: 10px;
+    color: white;
+	padding: 5% 8% 5% 8%;
+	margin-left: 30px;
+}
+.add-btn:hover {
+	background-color: #0033cc;
+}
+/*End of Product Forms*/
+
+/*Filter Form*/
+/*End of Filter Form*/
+
+/*Footer Styles*/
+#footer {
+	position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 5.5rem;  
+	color: white;
+	text-align: center;
+	background-color: black;
+	margin: 0;
+	padding: 0;
+}
+#footer ul {
+	padding: 25px;
+}
+#footer li {
+	display: inline;
+	list-style-type: none;
+	text-decoration: none;
+	padding: 10px 15px 10px 15px;
+}
+/*End of Footer Styles*/
