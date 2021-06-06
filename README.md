@@ -5,11 +5,11 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 
 <table>
 <tr> <th> Font-End Languages </th> <th> Back-End Languages </th> </tr>
-<tr><td style="text-align: center;">
+<tr><td>
 
 |HTML| 
 |--|
-|CSS|
+| CSS|
 |JavaScript|
   
 </td><td>
