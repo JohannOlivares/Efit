@@ -13,7 +13,7 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 - PHP
 
 # Web App Preview
-<img src="https://media.giphy.com/media/LLRd8RTIESyP4HverW/giphy.gif" width="500">
+<img src="https://media.giphy.com/media/LLRd8RTIESyP4HverW/giphy.gif" width="800">
 
 # Future Updates
 This project is a work-in-progess and passion project I want to keep updating and take it as far as I can. As of now, I am in the process of adding a user sign-in system and plan to later implement package tracking.
