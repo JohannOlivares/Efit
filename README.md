@@ -12,14 +12,12 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 |CSS|
 |--|
 |JavaScript|
-|--|
+  
 </td><td>
 
 |MySQL|
 |--|
 |PHP|
-|--|
-|--|
 
 </td></tr> </table>
 
