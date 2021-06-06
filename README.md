@@ -14,7 +14,7 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 
 # What Can Efit Do?
 - Add Products and showcase the items you are selling.
-- Customers can add items to thier cart and pay for them via paypal payment gateway.
+- Customers can add items to their cart and pay for them through the paypal payment gateway.
 - The customers and order information is stored and into a relational database. 
 - Stored data such as products information can be viewed and edited.
 
