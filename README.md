@@ -9,7 +9,7 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 
 |HTML| 
 |--|
-|CSS| 
+|CSS|
 |--|
 |JavaScript|
 
