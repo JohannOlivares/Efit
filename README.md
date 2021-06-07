@@ -7,11 +7,11 @@ Efit is a ecommerce solution that is built specifically to sell clothes. It is b
 # Front-End Languages
 - HTML
 - CSS
-- JavaScript
 
 # Back-End Languages
 - MySQL
 - PHP
+- JavaScript
 
 # What Can Efit Do?
 - Add Products and showcase the items you are selling.
