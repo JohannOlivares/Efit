@@ -1,10 +1,12 @@
 <?php
 class DBController {
 	//Database connection variables
-	private $host = "localhost";
-	private $user = "root";
+	//Don;t forget to add all of the following credentials when connecting
+	//to your database.
+	private $host = "";
+	private $user = "";
 	private $password = "";
-	private $database = "efit";
+	private $database = "";
 	private $conn;
 	
 	function __construct() {
